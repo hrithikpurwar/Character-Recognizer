@@ -11,5 +11,6 @@
 6. Click Brouse files button and select any handwritten letter image.
 ![Screenshot 2021-09-05 at 8 10 18 PM](https://user-images.githubusercontent.com/72293452/132130869-ed5ebcec-9eee-4e7d-97d0-78a7ba9bec5a.png)
 7. Results!
-[Uploading Screenshot 2021-09-05 at 8.11.51 PM.png…]()
+![Screenshot 2021-09-05 at 8 13 00 PM](https://user-images.githubusercontent.com/72293452/132130940-12dee43c-aa5c-4621-86d4-4bc86422f348.png)
+
 
